@@ -1,7 +1,7 @@
-# Kodluyoruz - FrontEnd 101 Eğitimi
+# Kodluyoruz - patika.dev - Başlangıç Seviye FrontEnd Eğitimi
 
 > Hakan Yalçınkaya HTML Ödev 3
 >
-> > [Patika.dev](https://app.patika.dev/moduller/html/odev2/)
+> > [HTML Ödev 3; Yemek Tarifi Sitesi](https://app.patika.dev/moduller/html/html-odev3)
 
-## Yemek tarifi sitesi ödevi
+# bu ödevde yemek tarifini öğrendiğimiz bir web sitesini, HTML etiketlerini kullanarak yazdım
